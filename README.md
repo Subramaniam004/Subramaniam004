@@ -45,4 +45,4 @@ I'm **SUBRAMANIAM BHAVIMANE**, a cybersecurity and cloud computing enthusiast. I
   <a href="mailto:subramaniam01@gmail.com">Email</a>
 </p>
 
-😄 **Fun Fact:** I enjoy exploring cybersecurity, ethical hacking, and cloud technologies to create secure and innovative solutions.
+😄 **Fun Fact:** I enjoy combining **cybersecurity skills with web and cloud development** to create secure, innovative, and practical solutions. My motto: *"Learn, Hack, Secure, Repeat."*
