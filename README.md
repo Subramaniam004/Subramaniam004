@@ -37,7 +37,8 @@ I'm **SUBRAMANIAM BHAVIMANE**, a cybersecurity and cloud computing enthusiast. I
 - AI integration for cybersecurity analytics 
 
 🚀 **Projects Highlights:**  
-- **Cybersecurity Tools** – Scripts for vulnerability assessment, penetration testing, and incident handling.  
+- **Cybersecurity Tools** – Scripts for vulnerability assessment, penetration testing, and incident handling.
+- **Password Strength Checker** that evaluates password security using multiple validation techniques. Built with a focus on improving user awareness and promoting best practices in cybersecurity.
 
 📫 **Connect with me:**  
 <p>
