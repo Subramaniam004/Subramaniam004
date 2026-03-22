@@ -6,7 +6,7 @@ I'm **SUBRAMANIAM BHAVIMANE**, a cybersecurity and cloud computing enthusiast. I
 <p align="left">
   <!-- Basic programming & foundations -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+  <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Web%20Development%20(HTML,CSS)-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
