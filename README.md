@@ -18,9 +18,8 @@ I'm **SUBRAMANIAM BHAVIMANE**, a cybersecurity and cloud computing enthusiast. I
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="30"/>
 </p>
 <p align="left">
-  <!-- Networking & Data -->
+  <!-- Networking -->
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 </p>
 <p align="left">
   <!-- Cybersecurity & Cloud -->
